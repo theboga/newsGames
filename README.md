@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/9596542/229277047-d7daf214-c240-40bb-8
 You can use `Git Clone` to clone the repository and run the app.
 
 ```
-git clone https://github.com/theboga/iOSWordle.git
+https://github.com/theboga/newsGames.git
 ```
 
 
