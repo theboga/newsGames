@@ -34,7 +34,9 @@ https://user-images.githubusercontent.com/9596542/229277047-d7daf214-c240-40bb-8
 
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 13 07](https://user-images.githubusercontent.com/9596542/229277274-b20d4210-3a7d-462e-8e26-105e366a95b6.png)
 
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 15 10](https://user-images.githubusercontent.com/9596542/229277377-62d3af51-8fb1-405c-a309-896c85c67752.png)
 
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 16 38](https://user-images.githubusercontent.com/9596542/229277449-a4b02e47-0cf1-488b-b9e7-9c3be276a212.png)
 
 ## Installation
 
